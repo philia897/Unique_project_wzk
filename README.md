@@ -1,2 +1,11 @@
-# Unique_project_wzk
-include two projects, shell and SFS
+# Unique_project_wzk by 王泽堃
+## 主要包含两个项目及有关文件： 
+### SFS:
+- 完成任务要求的功能，但没有用greatest进行过单元测试。
+- 只用自己写的输出函数测试过，导入到文件和导出还原都没有问题。
+
+### shell：
+- 完成所有功能
+- 结合理解对各种功能做了一些改进，支持更加广泛的操作
+- 尽量减少了需要打字输入的情况，主要通过zenity的列表实现
+- 速度还需提升，全部功能都写在一个shell脚本里是有点累赘
